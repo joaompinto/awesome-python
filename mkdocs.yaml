@@ -1,0 +1,15 @@
+# Project information
+site_name: rootbox
+
+nav:
+    - Home: index.md
+
+theme:
+    name: material
+    language: en
+    palette:
+        primary: 'blue'
+        accent: 'green'
+
+copyright:  Copyright © João Pinto
+
