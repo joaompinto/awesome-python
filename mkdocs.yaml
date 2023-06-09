@@ -1,8 +1,17 @@
 # Project information
-site_name: rootbox
+site_name: Python Awesome Libraries and Tools
+
+repo_url: https://github.com/joaompinto/awesome-python
+
 
 nav:
     - Home: index.md
+    - Development Tools: devtools.md
+    - Documentation Tools: doctools.md
+    - Command Line Handlers: cli.md
+    - Text User Interfaces: tui.md
+    - Packagers: packagers.md
+    - Web Development: webdev.md
 
 theme:
     name: material
@@ -12,4 +21,3 @@ theme:
         accent: 'green'
 
 copyright:  Copyright © João Pinto
-
