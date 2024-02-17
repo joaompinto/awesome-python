@@ -1,5 +1,5 @@
-
-- [shiv](https://github.com/linkedin/shiv) - self-contained Python zipapps as outlined in PEP-441
-- [pyempaq](https://github.com/facundobatista/pyempaq) - Python packager that creates a zipapp which setups the virtual environment, installs the dependencies and runs the application
 - [pex](https://github.com/pantsbuild/pex) - PEX is a library and tool for generating .pex (Python EXecutable) files, which are self-contained, executable Python environments
-
+- [pyempaq](https://github.com/facundobatista/pyempaq) - Python packager that creates a zipapp which setups the virtual environment, installs the dependencies and runs the application
+- [rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [shiv](https://github.com/linkedin/shiv) - self-contained Python zipapps as outlined in PEP-441
+- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. Designed as a drop-in replacement for pip and pip-compile.
